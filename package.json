@@ -1,0 +1,12 @@
+{
+  "name": "department-sqli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "SQL Injection for PAC2",
+  "author": "agusti moll",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^3.0.0"
+  }
+}
